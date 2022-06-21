@@ -61,10 +61,8 @@ def get_sent_content(mail):
         pass
 
 
-# username = "alexandraivv@yandex.ru"
-# password = "weare6789"
-username = "zmxncbv12309@yandex.ru"
-password = "mike2112"
+username = "EMAIL@yandex.ru"
+password = "PASSWORD"
 
 id_num = 0
 
